@@ -6,8 +6,8 @@ SHKeeper payment gateway module for OpenCart 4
 ## Installation
 ### Upload via Extension Installer
 
-Download from [Github releases page](https://github.com/vsys-host/opencart-4-shkeeper-payment-module/releases) the latest module archive `opencart-4-shkeeper-payment-module.ocmod.zip`
-* Upload `opencart-4-shkeeper-payment-module.ocmod.zip` to your OpenCart or ocStore installation using the administrator menu _Extensions_ -> _Installer_ and click install button in Action column.
+Download from [Github releases page](https://github.com/vsys-host/opencart-4-shkeeper-payment-module/releases) the latest module archive `shkeeper.ocmod.zip`
+* Upload `shkeeper.ocmod.zip` to your OpenCart or ocStore installation using the administrator menu _Extensions_ -> _Installer_ and click install button in Action column.
 * Then, to install and configure the extension, go to (_Extensions_ -> _Extensions_ -> _Payments_), find SHKeeper module and click install button in Action column.
 
 ### Manual Plugin Installation
